@@ -1,0 +1,20 @@
+{
+  "name": "estudo-electron-se-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Oliver/estudo-electron-se-webdriver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Oliver/estudo-electron-se-webdriver/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Oliver/estudo-electron-se-webdriver#readme"
+}
