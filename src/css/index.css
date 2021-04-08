@@ -1,0 +1,10 @@
+.ir-site-botao{
+    padding: 5px;
+    background: rgb(122, 67, 248);
+    color:white;
+    transition: 0.3s;
+}
+
+.ir-site-botao:hover{
+    background-color: rgb(93, 49, 194);
+}
