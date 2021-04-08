@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gabriel-Oliver/estudo-electron-se-webdriver/issues"
   },
-  "homepage": "https://github.com/Gabriel-Oliver/estudo-electron-se-webdriver#readme"
+  "homepage": "https://github.com/Gabriel-Oliver/estudo-electron-se-webdriver#readme",
+  "dependencies": {
+    "electron": "^12.0.2"
+  }
 }
